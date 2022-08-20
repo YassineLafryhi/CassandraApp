@@ -5,7 +5,7 @@
 
 ![Screenshot](screenshot.png)
 
-### [Download](https://github.com/Yassine-Lafryhi/CassandraApp/releases)
+### [Download](https://github.com/Yassine-Lafryhi/CassandraApp/releases/download/v1.0.0/Cassandra.zip)
 
 --
 
